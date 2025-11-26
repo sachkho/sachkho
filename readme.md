@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sacha Khosrowshahi</h1>
-<h3 align="center">A student focused on Artificial Intelligence and Applied Mathematics from Paris, France</h3>
+<h3 align="center">A student focused on Artificial Intelligence and Computer Vision from Paris, France</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence in Computer Vision & Applied Mathematics for signal processing**
 
-- 🤝 I’m a student at **Télécom Paris**
+- 🤝 I’m a student at **Télécom Paris** and **PSL University**
 
 - 📫 How to reach me **khosrowsacha@gmail.com**
 
